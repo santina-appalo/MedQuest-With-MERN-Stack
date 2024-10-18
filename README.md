@@ -23,4 +23,3 @@ MedQuest is a web application designed to streamline the management of healthcar
 - *Authentication:*
   - JWT (JSON Web Token)
   - bcryptjs for password hashing
-
