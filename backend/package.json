@@ -10,8 +10,8 @@
     "start-dev": "nodemon index.js"
 
   },
-  "author": "Saksham Raghuvanshi",
-  "license": "ISC",
+  "author": "Santina Appalo",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
