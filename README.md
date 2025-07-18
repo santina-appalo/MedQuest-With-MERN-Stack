@@ -118,7 +118,7 @@ npm start
 ```
 
 📁 Project Structure
-
+```bash
 medquest/
 ├── backend/
 │   ├── models/
@@ -259,4 +259,5 @@ medquest/
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
+```
 
