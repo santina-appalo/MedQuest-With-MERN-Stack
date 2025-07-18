@@ -2,7 +2,7 @@
 
 A comprehensive healthcare management web application designed to streamline medical appointment booking and healthcare service management. MedQuest connects patients with healthcare providers through an intuitive, user-friendly interface.
 
-![MedQuest Hero](assets/screenshots/hero.png)
+![MedQuest Hero](src/assets/images/logo.png)
 
 ---
 
